@@ -1,0 +1,30 @@
+# Build directories
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache
+.vs/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.~*
+
+# Rider project files
+.idea/
+
+# DotNet specific
+project.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
